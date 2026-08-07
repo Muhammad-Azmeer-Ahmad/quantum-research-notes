@@ -4,9 +4,15 @@
 
 \*\*Paper:\*\* Quantum Cryptography: Public Key Distribution and Coin Tossing
 
+
+
 \*\*Authors:\*\* Charles H. Bennett, Gilles Brassard
 
+
+
 \*\*Year:\*\* 1984
+
+
 
 \*\*Link:\*\* https://eclass.uoa.gr/modules/document/file.php/PHYS253/Quantum%20Cryptography%20Bennet.pdf
 
@@ -35,6 +41,4 @@
 
 
 See \[notes.md](notes.md) for the full analysis.
-
-EOF
 
