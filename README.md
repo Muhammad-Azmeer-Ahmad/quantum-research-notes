@@ -10,7 +10,7 @@ Paper analyses and implementations in quantum information, cryptography, and net
 
 
 
-This repo documents my progression through foundational and current research in quantum information science, following a deliberate path rather than random paper collection. Each entry includes a full breakdown of the paper (problem, method, math, results) along with my own understanding, a partial reproduction in code, and open questions I haven't resolved yet.
+This repo documents my progression through foundational and current research in quantum information science, following a deliberate path rather than a random paper collection. Each entry includes a full breakdown of the paper (problem, method, math, results), my own understanding, a partial reproduction in code, and open questions I haven't resolved yet.
 
 
 
@@ -30,27 +30,27 @@ Papers are studied in this progression:
 
 Quantum Foundations
 
-&#x20;      ↓
+&#x20;       ↓
 
 Quantum Information
 
-&#x20;      ↓
+&#x20;       ↓
 
 Quantum Cryptography
 
-&#x20;      ↓
+&#x20;       ↓
 
 Quantum Error Correction
 
-&#x20;      ↓
+&#x20;       ↓
 
 Quantum Networks
 
-&#x20;      ↓
+&#x20;       ↓
 
 Quantum Repeaters
 
-&#x20;      ↓
+&#x20;       ↓
 
 Quantum Network Protocols
 
@@ -88,11 +88,19 @@ GLOSSARY.md        → plain-language definitions of terms as I learn them
 
 
 
-\## Notes on approach
+\## Notes on Approach
 
 
 
-Every paper folder follows a fixed template: Citation, Problem, Background, Method, Mathematics, Results, My Understanding, Reproduction, My Results, and Limitations/Questions. The last section is intentional — this is a learning log, not a claim of original research, and I try to be explicit about what I don't yet understand.
+Every paper folder follows a fixed template:
+
+
+
+\*\*Citation → Problem → Background → Method → Mathematics → Results → My Understanding → Reproduction → My Results → Limitations/Questions\*\*
+
+
+
+The last section is intentional — this is a learning log, not a claim of original research, and I try to be explicit about what I don't yet understand.
 
 
 
@@ -104,5 +112,5 @@ Original work by the paper's authors is always clearly separated from my own ana
 
 
 
-Muhammad Azmeer Ahmad — Computer Engineering undergraduate, preparing for research in quantum information and cybersecurity.
+\*\*Muhammad Azmeer Ahmad\*\* — Computer Engineering undergraduate, preparing for research in quantum information and cybersecurity.
 
