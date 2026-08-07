@@ -39,9 +39,9 @@ GLOSSARY.md        → plain-language definitions of terms as I learn them
 
 ## Papers
 
-| # | Paper | Topic | Status |
-|---|-------|-------|--------|
-| 001 | [Quantum Cryptography: Public Key Distribution and Coin Tossing (BB84)](papers/001-bb84) | Quantum Cryptography | In progress |
+| # | Paper | Topic | Status | Source |
+|---|-------|-------|--------|--------|
+| 001 | [Quantum Cryptography: Public Key Distribution and Coin Tossing (BB84)](papers/001-bb84) | Quantum Cryptography | In progress | [PDF](https://eclass.uoa.gr/modules/document/file.php/PHYS253/Quantum%20Cryptography%20Bennet.pdf) |
 
 ## Notes on Approach
 
