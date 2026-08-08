@@ -6,7 +6,7 @@
 
 **Year:** 1984
 
-**Link:** https://eclass.uoa.gr/modules/document/file.php/PHYS253/Quantum%20Cryptography%20Bennet.pdf
+**Link:** [PDF](https://eclass.uoa.gr/modules/document/file.php/PHYS253/Quantum%20Cryptography%20Bennet.pdf)
 
 ## One-line Summary
 
