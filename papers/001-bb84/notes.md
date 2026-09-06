@@ -16,6 +16,8 @@ The main things involved are the \*\*bit\*\* and the \*\*basis\*\*.
 
 A encodes each bit (0 or 1) using a randomly selected basis:
 
+
+
 \*\*Rectilinear (+) or Diagonal (×)\*\*. B also randomly chooses a basis to measure
 
 each photon, so B does not initially know which basis A used.
